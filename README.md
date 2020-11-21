@@ -4,6 +4,7 @@ The app is a chatting platform for registered users. It is implemented using the
 
 
 
+<pre>                           <img src="chat3.jpeg" width="200" height="400">     <img src="chat4.jpeg" width="200" height="400"> </pre>
 <pre>                           <img src="chat1.jpeg" width="200" height="400">     <img src="chat2.jpeg" width="200" height="400"> </pre>
 
 
