@@ -1,6 +1,6 @@
 # Flash Chat
 
-The app is a chatting platgform for registered users. It is implemented using the Firebase Firestore Real-Time Data Storage backend. 
+The app is a chatting platform for registered users. It is implemented using the Firebase Firestore Real-Time Data Storage backend. 
 
 
 
